@@ -1,2 +1,3 @@
-# IT
-A place to collaborate on IT-related tasks
+# St. Paul IT
+
+A place to collaborate on St. Paul IT-related tasks.
