@@ -5,7 +5,7 @@ The St. Paul IT Committee (the “Committee”) is a collective group of communi
 These guidelines are subject to modification, amendment or revocation by a majority of members of the Committee and approval by the Principle at any time. Committee members are encouraged to consult the Principle for additional information regarding the policies, procedures, and privileges described in this Handbook. The Committee will provide each individual a copy of this Handbook upon membership approval. All members are expected to abide by it. The highest standards of personal and professional ethics and behavior are expected of all Committee members. Further, the Committee expects each member to display good judgment, diplomacy, and courtesy in their professional relationships with members of the Committee, faculty/staff of St. Paul, and the general public.
 
 ## Values
-The Committee shall operate under, uphold, and outwardly demonstrate the Committee’s Core Values (the “Values”). In all aspects of participation in the Committee, these Values must be actively practiced to provide the best possible experiences with those we encounter. 
+The Committee shall operate under, uphold, and outwardly demonstrate the Committee’s Core Values (the “Values”). In all aspects of participation in the Committee, these Values must be actively practiced to provide the best possible experiences with those we encounter.
 
 The Values of the Committee are:
 
@@ -37,7 +37,7 @@ A critical component to the success of the Committee is well-established communi
 5. **Persistent conversations, decisions, and approvals.** Not only are historical and past conversations important for reference and future decision making, but it is important the business system in which these artifacts are stored on be supported in a persistent manner so its history is never altered.
 6. **Password, Secret, and Token Management.** It is not appropriate to store these artifacts in plain text. It is also necessary to make these artifacts available to members of the Committee as well as the Principle. For all passwords, secrets, and tokens, use an officially-supported password-management tool that encrypts the values and is accessible by Committee members.
 7. **Ad-hoc in-person conversations.** There are always appropriate times for these types of conversations to be held, such as a trivial question, quick fix to a maintenance issue, etc, however these should be kept at a minimum at the discretion of Committee members, since all faculty, staff, and other Committee members can benefit from nearly all instances of such conversations. That is to say, documenting a trivial question in one of the established communication channels can be searchable in the future by other personnel to potentially solve the same work item.
-8. **External communication.** Not everyone can have access to internal communication channels. This is where email is most useful. When the Committee needs to send messages to outside entities, email is an excellent option. 
+8. **External communication.** Not everyone can have access to internal communication channels. This is where email is most useful. When the Committee needs to send messages to outside entities, email is an excellent option.
 
 With the Tenants of Communication and Collaboration defined above, we can begin to formally establish the Committee’s channels so each member can leverage them in an appropriate manner:
 
@@ -50,11 +50,11 @@ With the Tenants of Communication and Collaboration defined above, we can begin 
 	- Tenants addressed: 1,3,4,5
 	- Description: Artifact, work-item style collaboration in the context of St. Paul.
 	- Advantages: Keep track of projects and milestones easily, including IT work items and Website redesign. Share code and keep track of changes in a simple way. Send collaborators direct links to content quickly. History is never removed. Free for public repositories. Know when content of artifacts are changed or altered.
-	- Disadvantages: Free for public repositories only. This means we should not place sensitive content in the repositories, however general IT-related matters would be acceptable. 
+	- Disadvantages: Free for public repositories only. This means we should not place sensitive content in the repositories, however general IT-related matters would be acceptable.
 - **Email**
 	- Tenants addressed: 8
-	- Description: Standard email service via `@stpaulthorndale.com` email address(es). 
-	- Advantages: Can hold private conversations for personal or sensitive material. 
+	- Description: Standard email service via `@stpaulthorndale.com` email address(es).
+	- Advantages: Can hold private conversations for personal or sensitive material.
 	- Disadvantages: Only specific personnel (i.e the sender and those in the To/Cc/Bcc fields) can benefit from the conversation. Nearly all conversations on IT-related matters should be held in a transparent way. Only discuss sensitive or personal matters via email. Flowdock can also have 1-on-1 conversations.
 - **1Password**
 	- Tenants addressed: 6
@@ -69,7 +69,7 @@ With the Tenants of Communication and Collaboration defined above, we can begin 
 - **Ad-hoc and formal meetings**
 	- Tenants addressed: 2,7
 	- Description: Traditional, scheduled meetings between Committee members, the Principle, and/or other St. Paul stakeholders.
-	- Advantages: Discuss and come to agreements on major decisions when needed. A record must be in a written/typed/electronic format, such as via the usage of meeting minutes or via a solution that addresses Communication and Collaboration tenants 3, 4, and/or 5. 
+	- Advantages: Discuss and come to agreements on major decisions when needed. A record must be in a written/typed/electronic format, such as via the usage of meeting minutes or via a solution that addresses Communication and Collaboration tenants 3, 4, and/or 5.
 	- Disadvantages: Often times, matters proposed for a synchronous meeting can be more effectively resolved via an asynchronous communication solution. Time can be wasted in the lead-up to the meeting time. Also, it can be difficult for all members to be available at a common time during and/or off of official, business working hours.
 
 ## Governance
@@ -83,6 +83,8 @@ Items and activities that need approval by the Principle include:
 - Things that may also fall under the scope of the Trustees
 	- Get approval by the head of Trustees
 
+The St. Paul Church and School is a tightly integrated entity that supports each other in a very close way. Although the Committee reports to the Principle for IT-related matters and they primarily perform work for the School, it is encouraged and the Committee can use its discretion on helping IT-related matters of the Church. However, the policies in this Handbook must still be followed.
+
 ## Asset Ownership
 Often times, business applications, solutions, or relationships with outside entities may require ownership by a representative or entity of St. Paul, and often times this situation occurs in the context of IT-related matters. This can include subscriptions to school-related educational material, licenses for IT solutions purchased by the Committee, and other related items. It is important to set a policy on how these relationships should exist for long-term sustainability and day-to-day operation of IT-related matters at St. Paul. This will also protect St. Paul in the event a license or subscription is owned by a named person (as opposed to a business or service account) and the status of that named person becomes such that they are no longer associated with St. Paul.
 
@@ -93,9 +95,6 @@ The official business/service account for such matters shall be the Google accou
 - All current software and non-software related licenses and subscriptions not owned by `it@stpaulthorndale.com` shall be immediately transferred from the previous owner to `it@stpaulthorndale.com`.
 	- If this is not possible, the reasons should be clearly documented using an officially supported channel of communication.
 - Ownership is different than collaboration. While licenses and subscriptions should be owned by the business/service account, named collaborators can and should be added to those assets so changes can be tracked and credited to specific people.
-
-## Church-related Matters
-The St. Paul Church and School is a tightly integrated entity that supports each other in a very close way. Although the Committee reports to the Principle for IT-related matters and they primarily perform work for the School, it is encouraged and the Committee can use its discretion on helping IT-related matters of the Church. However, the policies in this Handbook must still be followed.
 
 ## SOX Compliance
 TBD. Who needs to achieve SOX compliance? Definition of SOX and various implementations. Traceability.
