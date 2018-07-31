@@ -83,7 +83,7 @@ Items and activities that need approval by the Principle include:
 - Things that may also fall under the scope of the Trustees
 	- Get approval by the head of Trustees
 
-The St. Paul Church and School is a tightly integrated entity that supports each other in a very close way. Although the Committee reports to the Principle for IT-related matters and they primarily perform work for the School, the Committee is encouraged to help with IT-related matters of the Church with guidance from the Pastor. However, the policies in this Handbook must still be followed.
+The St. Paul Church and School is a tightly integrated entity that supports each other in a very close way. Although the Committee actively reports to the Principle for IT-related matters, the Committee is encouraged to help with IT-related matters of the Church with guidance from the Pastor. However, the policies in this Handbook must still be followed.
 
 As part of Governance, periodic auditing of systems of records must take place. This includes ensuring those who need access are provided access to business-critical systems, and those who do not need access for valid day-to-day business reasons must be considered for removal and approved for removal by the Principle.
 
