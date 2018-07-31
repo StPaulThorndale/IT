@@ -83,7 +83,7 @@ Items and activities that need approval by the Principle include:
 - Things that may also fall under the scope of the Trustees
 	- Get approval by the head of Trustees
 
-The St. Paul Church and School is a tightly integrated entity that supports each other in a very close way. Although the Committee reports to the Principle for IT-related matters and they primarily perform work for the School, it is encouraged and the Committee can use its discretion on helping IT-related matters of the Church. However, the policies in this Handbook must still be followed.
+The St. Paul Church and School is a tightly integrated entity that supports each other in a very close way. Although the Committee reports to the Principle for IT-related matters and they primarily perform work for the School, the Committee is encouraged to help with IT-related matters of the Church with guidance from the Pastor. However, the policies in this Handbook must still be followed.
 
 ## Asset Ownership
 Often times, business applications, solutions, or relationships with outside entities may require ownership by a representative or entity of St. Paul, and often times this situation occurs in the context of IT-related matters. This can include subscriptions to school-related educational material, licenses for IT solutions purchased by the Committee, and other related items. It is important to set a policy on how these relationships should exist for long-term sustainability and day-to-day operation of IT-related matters at St. Paul. This will also protect St. Paul in the event a license or subscription is owned by a named person (as opposed to a business or service account) and the status of that named person becomes such that they are no longer associated with St. Paul.
